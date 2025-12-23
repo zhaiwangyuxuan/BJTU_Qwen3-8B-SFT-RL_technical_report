@@ -32,3 +32,4 @@ This paper implements a Retrieval-Augmented Generation (RAG) system tailored to 
 ## 后日谈 Afterword
 
 Hewkick: 其实我没做什么工作（（（（感谢 Zhai 老师挂名（（（
+Wangyuxuan Zhai: 大家别信 Hewkick 老师说的（（ ta 太谦虚了。实际上 ta 在处理 VeRL 和解决一些烦人的小 bug 上帮了很多；不过 ta 不希望我挂 ta 的真名，就挂个网名吧

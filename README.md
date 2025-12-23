@@ -28,3 +28,7 @@ This paper implements a Retrieval-Augmented Generation (RAG) system tailored to 
 
 - Hewkick - Independent Researcher [GitHub ❤️](https://github.com/hewkick) [BiliBili 📺](https://space.bilibili.com/105344359)
 - 📫 hewkick@gmail.com
+
+## 后日谈 Afterword
+
+Hewkick: 其实我没做什么工作（（（（感谢 Zhai 老师挂名（（（

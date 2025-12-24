@@ -1,6 +1,6 @@
 # 北京交通大学 铁路智能信息处理 实验五 大语言模型开发实验 技术报告（实验报告）
 
-# Technical Report (Laboratory Report) for Experiment 5: Large Language Model Development Experiment of Railway Intelligent Information Processing, Beijing Jiaotong University
+# Pushing the Limits in BJTU Railway Class via Reinforcement Learning
 
 
 ![pic](/pictures/head_top5.png)
